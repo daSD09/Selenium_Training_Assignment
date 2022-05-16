@@ -74,10 +74,6 @@ public class SeleniumAssignment {
 	public void testClickMore() {
 		try {
 			Thread.sleep(3000);
-			//hoveronitem
-//			WebElement item = driver.findElement(By.className("//*[@id=\"center_column\"]/ul/li/div/div[1]/div/a[1]/img"));
-//			action.moveToElement(item).perform();
-
 			//clickonmore
 			driver.findElement(By.xpath("//*[@id=\"center_column\"]/ul/li/div/div[2]/div[2]/a[2]")).click();
 			String expected_title = "Faded Short Sleeve T-shirts - My Store";
