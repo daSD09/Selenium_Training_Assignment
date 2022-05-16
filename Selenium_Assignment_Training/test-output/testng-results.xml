@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-16T13:27:42 IST" name="Default suite" finished-at="2022-05-16T13:28:29 IST" duration-ms="46303">
+    <groups>
+    </groups>
+    <test started-at="2022-05-16T13:27:42 IST" name="Default test" finished-at="2022-05-16T13:28:29 IST" duration-ms="46303">
+      <class name="buyOrderFunctionality.SeleniumAssignment">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:buyOrderFunctionality.SeleniumAssignment@793be5ca]" started-at="2022-05-16T13:27:42 IST" name="initialize" finished-at="2022-05-16T13:27:50 IST" duration-ms="7538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="testLogin()[pri:1, instance:buyOrderFunctionality.SeleniumAssignment@793be5ca]" started-at="2022-05-16T13:27:50 IST" name="testLogin" finished-at="2022-05-16T13:28:06 IST" duration-ms="15578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testSelectTshirt()[pri:2, instance:buyOrderFunctionality.SeleniumAssignment@793be5ca]" started-at="2022-05-16T13:28:06 IST" name="testSelectTshirt" finished-at="2022-05-16T13:28:13 IST" duration-ms="7830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectTshirt -->
+        <test-method signature="testClickMore()[pri:3, instance:buyOrderFunctionality.SeleniumAssignment@793be5ca]" started-at="2022-05-16T13:28:13 IST" name="testClickMore" finished-at="2022-05-16T13:28:20 IST" duration-ms="6201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickMore -->
+        <test-method signature="testSetProductDetails()[pri:4, instance:buyOrderFunctionality.SeleniumAssignment@793be5ca]" started-at="2022-05-16T13:28:20 IST" name="testSetProductDetails" finished-at="2022-05-16T13:28:20 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetProductDetails -->
+        <test-method signature="testProductCheckout()[pri:5, instance:buyOrderFunctionality.SeleniumAssignment@793be5ca]" started-at="2022-05-16T13:28:20 IST" name="testProductCheckout" finished-at="2022-05-16T13:28:28 IST" duration-ms="7943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductCheckout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:buyOrderFunctionality.SeleniumAssignment@793be5ca]" started-at="2022-05-16T13:28:28 IST" name="close" finished-at="2022-05-16T13:28:29 IST" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- buyOrderFunctionality.SeleniumAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
