@@ -34,7 +34,7 @@ public class SeleniumAssignment {
 		try {
 		driver.get("http://automationpractice.com/index.php");
 		
-		//clickSignup
+		//click Signup
 		driver.findElement(By.xpath("/html/body/div/div[1]/header/div[2]/div/div/nav/div[1]/a")).click();
 		WebElement txtbx_username= driver.findElement(By.name("email"));
 		txtbx_username.sendKeys("rima321@gmail.com");
